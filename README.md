@@ -146,8 +146,8 @@ Rodrigo’s reviews play a direct role in enabling or blocking second/third-stag
 
 ###📄 Work and COntributions Certificates (Download)
 
-- [Grant Reviewer Certificate](./certificates/Work%Certificate%-%Community%Reviewer%LVL1.pdf)
-- [Quality Assurance Analyst Certificate](./certificates/Work%Certificate%-%Community%Reviewer%LVL2.pdf)
+- [Grant Reviewer Certificate](./certificates/Work%20Certificate%20-%20Community%20Reviewer%20LVL1.pdf)
+- [Quality Assurance Analyst Certificate](./certificates/Work%20Certificate%20-%20Community%20Reviewer%20LVL2.pdf)
 
 ---
 
