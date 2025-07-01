@@ -8,8 +8,8 @@ This repository documents Rodrigo Pacini's participation and contributions to **
 
 Rodrigo has participated in Project Catalyst since Fund 2, contributing to proposal reviews, moderation, and milestone validation.
 
-- **Grant Reviewer(a.k.a. Community Reviewer – Level 1 or Community Advisor)** - Reviewed over **1,000 proposals**
-- **Quality Assurance Analyst(a.k.a. Community Reviewer – Level 2 or Veteran Community Advisor)** - Moderated more than **3,000 community peer reviews**
+- **Grant Reviewer (a.k.a. Community Reviewer – Level 1 or Community Advisor)** - Reviewed over **1,000 proposals**
+- **Quality Assurance Analyst (a.k.a. Community Reviewer – Level 2 or Veteran Community Advisor)** - Moderated more than **3,000 community peer reviews**
 - **Milestone Reviewer** - Validated **100+ Proofs of Achievement**
 - **Catalyst Community Contributor** - Co-developed early stage guidelines and review quality assurance standards
 - **Funded Proposer** - Created/Co-created and submitted multiple funding proposals, two of them were successfully funded by the Cardano Treasury: 
@@ -96,7 +96,7 @@ Rodrigo participated in three core roles:
 - Performed second-layer quality control over peer reviews
 - Verified consistency, clarity, and fairness of reviewer assessments
 - Helped surface high-quality reviews and flagged biased or unconstructive ones
-- Public records of reviewed moderation logs are available below as evidence of this role:
+- Public moderation records are available below as evidence of this role:
 <details>
 <summary>🧾 Quality Assurance logs for Community Assessment stages (click to expand)</summary>
 
@@ -124,7 +124,7 @@ Rodrigo participated in three core roles:
 <details>
 <summary>📈 Milestone Review Process (click to expand)</summary>
 
-**Milestone Reviewer** since Fund 11:
+  **Milestone Reviewer** since Fund 11:
 
 - Reviewed **30+ funded projects**
 - Validated **100+ Statements of Milestones (SoMs)** and **Proofs of Achievement (PoAs)**
