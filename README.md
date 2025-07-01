@@ -8,12 +8,12 @@ This repository documents Rodrigo Pacini's participation and contributions to **
 
 Rodrigo has participated in Project Catalyst since Fund 2, contributing to proposal reviews, moderation, and milestone validation.
 
-- **Grant Reviewer** Reviewed over **1,000 proposals**
-- **Quality Assurance Analyst/** Moderated more than **3,000 community reviews**
-- **Milestone Reviewer** Validated **100+ Proofs of Achievement**
-- **Catalyst Community Contributor** Co-developed early stage guidelines and review quality assurance standards
-- **Funded Proposer** Created/Co-created and submitted multiple funding proposals, two of them were successfully funded by the Cardano Treasury: 
-- **Challenge Setting Proposer** Authored/Co-authored and approved **9 Challenge Settings** submitted and approved by the community vote process across multiple funds. These challenges collectively mobilized **nearly $3 million USD** in funding, shaping some of the most relevant areas in the Cardano ecosystem.
+- **Grant Reviewer(a.k.a. Community Reviewer – Level 1 or Community Advisor)** - Reviewed over **1,000 proposals**
+- **Quality Assurance Analyst(a.k.a. Community Reviewer – Level 2 or Veteran Community Advisor)** - Moderated more than **3,000 community peer reviews**
+- **Milestone Reviewer** - Validated **100+ Proofs of Achievement**
+- **Catalyst Community Contributor** - Co-developed early stage guidelines and review quality assurance standards
+- **Funded Proposer** - Created/Co-created and submitted multiple funding proposals, two of them were successfully funded by the Cardano Treasury: 
+- **Challenge Setting Proposer** - Authored/Co-authored and approved **9 Challenge Settings** submitted and approved by the community vote process across multiple funds. These challenges collectively mobilized **nearly $3 million USD** in funding, shaping some of the most relevant areas in the Cardano ecosystem.
 
 ---
 
@@ -87,12 +87,12 @@ Some of the initiatives seeded or scaled through these challenges include:
 
 Rodrigo participated in three core roles:
 
-### 📋 Grant Reviewer a.k.a Community Reviewer (Level 0 / Level 1)
+### 📋 Grant Reviewer a.k.a. Community Reviewer (Level 0 / Level 1)
 - Scored proposals across **impact**, **feasibility**, and **value for money**
 - Submitted qualitative rationales to support each score
 - Helped voters evaluate the strengths and weaknesses of proposals
 
-### 🧠 Quality Assurance Analyst a.k.a Commmunity Reviewer (Level 2)
+### 🧠 Quality Assurance Analyst a.k.a. Community Reviewer (Level 2)
 - Performed second-layer quality control over peer reviews
 - Verified consistency, clarity, and fairness of reviewer assessments
 - Helped surface high-quality reviews and flagged biased or unconstructive ones
