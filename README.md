@@ -21,7 +21,7 @@ Rodrigo has participated in Project Catalyst since Fund 2, contributing to propo
 
 Created/Co-created and submitted different funding proposals, two of them were successfully funded by the Cardano Treasury:
 
-- **Fund 10 — Cardano Ambassadors & Latin America**  
+- **Fund 7 — Cardano Ambassadors & Latin America**  
   Focused on strengthening regional engagement and coordination among Cardano Ambassadors across LATAM.
 
 - **Fund 10 — DReps LATAM - Brasil – Exploration & Community Sensing**  
@@ -96,6 +96,23 @@ Rodrigo participated in three core roles:
 - Performed second-layer quality control over peer reviews
 - Verified consistency, clarity, and fairness of reviewer assessments
 - Helped surface high-quality reviews and flagged biased or unconstructive ones
+- Public records of reviewed moderation logs are available below as evidence of this role:
+<details>
+<summary>🧾 Quality Assurance logs for Community Assessment stages (click to expand)</summary>
+
+[Fund 3](https://docs.google.com/spreadsheets/d/1uIMbqVFVLogIoQX7jIfaw2q8VgDXUwdlbqI25X56FPc/edit?usp=sharing)
+[Fund 4](https://docs.google.com/spreadsheets/d/1nIxdcf05SHAalaplIGS5ftfAMli6a2asSy_695Fm-Vs/edit?usp=sharing)
+[Fund 5](https://docs.google.com/spreadsheets/d/1zWdJtvymBgFtnjeaLbOeLuM9YPb9vuQKcynVhAFarA0/edit?usp=sharing)
+[Fund 6](https://docs.google.com/spreadsheets/d/1hEUq2mCEYUk-oWaU-dFESu0lyo5zRR2HL7M7O8aURes/edit?usp=sharing)
+[Fund 7](https://docs.google.com/spreadsheets/d/1ZM3ytXkMB34iSo2LamNxpver-rs9fShnpeNEia-VdBo/edit?usp=sharing)
+[Fund 8](https://docs.google.com/spreadsheets/d/1hHp4YTEvEuOtXHZzlGESBx-UtOtd9pxjbXWXzDpyY6I/edit?usp=sharing)
+[Fund 9](https://docs.google.com/spreadsheets/d/1ib-OuG8MhI1l6br7ybBwh4g7VCMTdHtQE6Gl4qlC_xE/edit?usp=sharing)
+[Fund 10](https://docs.google.com/spreadsheets/d/1rvgSfwFiQLZkQq2LhyXmGkSM-MeUlumG6Svce0GIbmU/edit?usp=sharing)
+[Fund 11](https://docs.google.com/spreadsheets/d/1D7n0-Z9GBZ00eTRPsOO3UmH0_1Bv2ILVV7vZ4V_osYw/edit?usp=sharing)
+[Fund 12](https://docs.google.com/spreadsheets/d/1uIRx9C7k9_bUs3sVbcj0a03GkhPQPtgkEB5_ryx_VQc/edit?usp=sharing)
+[Fund 13](https://docs.google.com/spreadsheets/d/17oDIgQzic2Ow3h_F25FYuqMYtaB8QmTtrzBEIBWDSLU/edit?usp=sharing)
+
+</details>
 
 ### 🛡️ Moderator
 - Participated in early-stage moderation guidelines
